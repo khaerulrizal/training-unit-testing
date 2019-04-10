@@ -1,8 +1,8 @@
-package com.btpn.jpahibernate.jpahibernate.service;
+package com.btpn.cn.java.service;
 
 import java.util.List;
 
-import com.btpn.jpahibernate.jpahibernate.model.Employees;
+import com.btpn.cn.java.model.Employees;
 
 public interface IEmployeeService {
 	Employees addEmployee(Employees employee);

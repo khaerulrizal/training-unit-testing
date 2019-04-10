@@ -1,4 +1,4 @@
-package com.btpn.jpahibernate.jpahibernate.controller;
+package com.btpn.cn.java.controller;
 
 import java.util.List;
 
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.btpn.jpahibernate.jpahibernate.model.Employees;
-import com.btpn.jpahibernate.jpahibernate.service.IEmployeeService;
+import com.btpn.cn.java.model.Employees;
+import com.btpn.cn.java.service.IEmployeeService;
 
 @RestController
 @RequestMapping("/company")

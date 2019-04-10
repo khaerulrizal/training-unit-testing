@@ -1,4 +1,4 @@
-package com.btpn.jpahibernate.jpahibernate.model;
+package com.btpn.cn.java.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

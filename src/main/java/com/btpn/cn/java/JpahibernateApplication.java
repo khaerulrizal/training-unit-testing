@@ -1,4 +1,4 @@
-package com.btpn.jpahibernate.jpahibernate;
+package com.btpn.cn.java;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

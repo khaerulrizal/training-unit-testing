@@ -1,12 +1,12 @@
-package com.btpn.jpahibernate.jpahibernate.service;
+package com.btpn.cn.java.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.btpn.jpahibernate.jpahibernate.model.Employees;
-import com.btpn.jpahibernate.jpahibernate.repository.IEmployeeRepository;
+import com.btpn.cn.java.model.Employees;
+import com.btpn.cn.java.repository.IEmployeeRepository;
 
 @Service
 public class EmployeeServiceImpl implements IEmployeeService {
