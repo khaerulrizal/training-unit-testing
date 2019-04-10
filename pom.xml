@@ -11,7 +11,7 @@
 	<groupId>com.btpn.cn.java</groupId>
 	<artifactId>training-unit-testing</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>jpahibernate</name>
+	<name>training-unit-testing</name>
 	<description>Training Unit Testing </description>
 
 	<properties>
